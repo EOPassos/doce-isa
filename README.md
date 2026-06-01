@@ -1,8 +1,10 @@
 # doce-isa
 
-Documentação estudantil de ISA
+Documentação estudantil de ISA.
 
-Sob orientação do prof. Jurandy Soares (@jurandysoares).
+Publicado em <https://eopassos.github.io/doce-isa/>.
+
+Sob orientação do prof. Jurandy Soares ([@jurandysoares](https://github.com/jurandysoares)).
 
 O Markdown do GitHub aceita códigos curtos (short_code) para desenhar emojis. Exemplo:
 
