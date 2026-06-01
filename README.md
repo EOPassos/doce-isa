@@ -11,3 +11,4 @@ O Markdown do GitHub aceita códigos curtos (short_code) para desenhar emojis. E
 3. :cat:
 4. :dog:
 
+---
